@@ -60,7 +60,7 @@ java VaultManager
 
 6. Enter the Master PIN when prompted.
 
-**Default Master PIN:** `1234`
+**Default Master PIN:** `2206`
 
 ## 🔒 Encryption Note
 
@@ -78,6 +78,19 @@ It is **not intended for real-world password storage or security**. The Master P
 ## 🎯 Project Objective
 
 The objective of this project is to understand and demonstrate Java programming concepts, including classes, objects, encapsulation, ArrayLists, methods, loops, conditional statements, and basic encryption logic.
+
+## 📥 Download and Run
+
+1. Open the [Releases](../../releases) section.
+2. Download `SecureVault.jar` from the latest release.
+3. Make sure Java is installed.
+4. Open a terminal in the folder containing the downloaded JAR.
+5. Run:
+
+```bash
+java -jar SecureVault.jar
+```
+
 
 ---
 
